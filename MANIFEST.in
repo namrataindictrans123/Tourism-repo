@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include tourism *.css
+recursive-include tourism *.csv
+recursive-include tourism *.html
+recursive-include tourism *.ico
+recursive-include tourism *.js
+recursive-include tourism *.json
+recursive-include tourism *.md
+recursive-include tourism *.png
+recursive-include tourism *.py
+recursive-include tourism *.svg
+recursive-include tourism *.txt
+recursive-exclude tourism *.pyc

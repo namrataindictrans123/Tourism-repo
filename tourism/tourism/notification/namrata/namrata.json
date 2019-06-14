@@ -1,0 +1,26 @@
+{
+ "attach_print": 0, 
+ "channel": "Email", 
+ "creation": "2019-06-12 14:50:46.291157", 
+ "days_in_advance": 0, 
+ "docstatus": 0, 
+ "doctype": "Notification", 
+ "document_type": "Registration", 
+ "enabled": 1, 
+ "event": "Save", 
+ "idx": 0, 
+ "is_standard": 1, 
+ "message": "Registration successful ...!!!", 
+ "modified": "2019-06-12 14:50:46.291157", 
+ "modified_by": "Administrator", 
+ "module": "Tourism", 
+ "name": "Namrata", 
+ "owner": "Administrator", 
+ "recipients": [
+  {
+   "email_by_document_field": "owner", 
+   "email_by_role": "Tourist"
+  }
+ ], 
+ "subject": "Regarding registration"
+}
